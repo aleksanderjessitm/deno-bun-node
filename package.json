@@ -1,0 +1,23 @@
+{
+  "name": "deno-bun-node",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "node.mjs",
+  "dependencies": {
+    "mitata": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node node.mjs 50000000"
+  },
+  "keywords": [
+    "node",
+    "bun",
+    "deno",
+    "javascript",
+    "benchmark"
+  ],
+  "author": "Aleksander Jess",
+  "license": "AGPL-3.0-or-later"
+}
