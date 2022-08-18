@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "run": "node node.mjs 50000000"
+    "run": "node node.mjs"
   },
   "keywords": [
     "node",
