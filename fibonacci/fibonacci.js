@@ -1,4 +1,5 @@
 // Code is from https://stackoverflow.com/a/51111896
+// This file is shared under CC-BY-SA-4.0
 
 function fib(n) {
 
