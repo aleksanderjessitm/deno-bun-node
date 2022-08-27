@@ -1,5 +1,5 @@
 import { bench, group } from 'mitata';
-import { fib } from './fibonacci';
+import { fib } from './fib.js';
 
 group("Node.js: Fibonacci", () => {
     bench("5", () => fib(5))

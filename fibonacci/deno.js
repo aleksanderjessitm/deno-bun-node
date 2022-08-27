@@ -1,4 +1,5 @@
 import { bench, group } from 'https://esm.sh/mitata';
+import {fib} from './fib.js';
 
 group("Deno.js: Fibonacci", () => {
     bench("5", () => fib(5))
